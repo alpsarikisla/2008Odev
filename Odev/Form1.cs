@@ -15,6 +15,24 @@ namespace Odev
         public Form1()
         {
             InitializeComponent();
+            this.label1.ForeColor = System.Drawing.Color.Green;
+
+            Label lbl_isim = new Label();
+            lbl_isim.AutoSize = true;
+            lbl_isim.Text = "İsim:";
+            lbl_isim.Location = new Point(250, 30);
+            this.Controls.Add(lbl_isim);
+
+            Label lbl_soyisim = new Label();
+            lbl_soyisim.Text = "Soyisim:";
+            lbl_soyisim.Location = new Point(250, 57);
+            this.Controls.Add(lbl_soyisim);
+
+            TextBox tb_isim = new TextBox();
+            tb_isim.Location = new Point(300, 30);
+            this.Controls.Add(tb_isim);
         }
+
+       
     }
 }

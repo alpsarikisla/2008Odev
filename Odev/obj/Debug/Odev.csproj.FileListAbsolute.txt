@@ -1,0 +1,11 @@
+C:\Users\303\Documents\GitHub\2008Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\303\Documents\GitHub\2008Odev\Odev\bin\Debug\Odev.exe
+C:\Users\303\Documents\GitHub\2008Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\303\Documents\GitHub\2008Odev\Odev\obj\Debug\Odev.csproj.AssemblyReference.cache
+C:\Users\303\Documents\GitHub\2008Odev\Odev\obj\Debug\Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\303\Documents\GitHub\2008Odev\Odev\obj\Debug\Odev.Form1.resources
+C:\Users\303\Documents\GitHub\2008Odev\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\303\Documents\GitHub\2008Odev\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+C:\Users\303\Documents\GitHub\2008Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\303\Documents\GitHub\2008Odev\Odev\obj\Debug\Odev.exe
+C:\Users\303\Documents\GitHub\2008Odev\Odev\obj\Debug\Odev.pdb
